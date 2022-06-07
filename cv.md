@@ -1,23 +1,22 @@
 ## **Evgeny Frunze**
 ### Contacts
-- Discord: Evgeny918(@Evg918)
+- e-mail: sgv8918@gmail.com
 - GitHub: [Evg918](https://github.com/Evg918)
 
 ### About Me
-I'm taking my first steps in web development.
+I'm taking my first steps in web development. 
 
 ### Skills
-- Markdown
 - HTML (Basic)
 - CSS (Basic)
 - Git (Basic)
 
 ### Code Example
-function mult(a, b) {
-  return a * b;
+function mult(a, b) {\
+  return a * b;\
 }
 
-let res = mult(2, 2);
+let res = mult(2, 2);\
 alert(res);
 
 ### Courses:
