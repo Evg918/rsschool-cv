@@ -1,0 +1,15 @@
+
+.table-header {
+  width: 100%;
+  font-size: 24px;
+  background-color: #e6e6e6;
+}
+.table-main {
+  width: 100%;
+  background-color: #ffffff;
+}
+.table-footer {
+  width: 100%;
+  background-color: #e6e6e6;
+  font-size: 18px;
+}
