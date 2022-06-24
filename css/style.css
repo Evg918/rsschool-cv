@@ -115,10 +115,29 @@ body {
   opacity: 0.75;
 }
 
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
 
 .footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   width: 100%;
-  /* margin: 0; */
   background-color: #e6e6e6;
+  padding: 20;
   font-size: 18px;
+  text-decoration: none;
+}
+
+.footer-link {
+  padding: 0 300px;
+  line-height: 50px;
+  transition: .3s;
+  text-decoration: none;
 }
